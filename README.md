@@ -2,7 +2,8 @@ Vehicle Vault Assistant 🚗
 
 A smart automotive dealership management system that combines database management with AI-powered assistance using Google's Gemini AI. The system intelligently processes queries to either fetch database information or provide conversational responses about automotive topics.
 
-🌟 Features
+
+🌟 Features:
 
 AI-Powered Query Processing: Uses Google's Gemini AI to analyze and handle user queries.
 
@@ -14,7 +15,8 @@ Secure Configuration: Implements environment variables and API key protection.
 
 Scalable Architecture: Modular code structure for easy expansion and maintenance.
 
-🛠️ Core Components
+
+🛠️ Core Components:
 
 AI Integration (apis/gemine.js)
 
@@ -52,7 +54,8 @@ Connects to the database and loads API routes.
 
 Starts the server on a specified port.
 
-🔧 Technical Implementation
+
+🔧 Technical Implementation:
 
 Query Processing Workflow
 
@@ -79,6 +82,9 @@ Environment Variable Protection: Ensures sensitive data is stored securely.
 Database Connection Security: Uses secure credentials for database access.
 
 API Key Protection: Keeps API keys hidden and git-ignored.
+
+
+
 
 🚀 Setup & Installation
 
@@ -121,6 +127,7 @@ Installation Steps
    node server/index.js
    ```
 
+
 💡 Use Cases
 
 Vehicle Inventory Management: Retrieve details about available cars.
@@ -133,13 +140,18 @@ Automotive Assistance: Get AI-powered responses for vehicle-related inquiries.
 
 Price & Specification Queries: Ask about car models, pricing, and specifications.
 
+
+
 🤝 Contributing
 
 Feel free to contribute to this project! Fork the repository, make changes, and submit a pull request.
 
+
+
 📜 License
 
 This project is licensed under the MIT License.
+
 
 🚀 Vehicle Vault 2.0 – Making automotive management smarter with AI!
 
@@ -217,11 +229,7 @@ Contributions are always welcome! Here's how you can help:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-👥 Contact
 
-Pranshu Bansal - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/Pranshu640/Vehicle-Vault2.0](https://github.com/Pranshu640/Vehicle-Vault2.0)
 
 ---
 <div align="center">
