@@ -1,7 +1,9 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const genAI = new GoogleGenerativeAI("AIzaSyBBpeI6IpfhoYgMJSOz3Od_7CoIYL_YOkY");
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+//Add Gemini API Key
+const genAI = new GoogleGenerativeAI("");
+//Add model name to be used
+const model = genAI.getGenerativeModel({ model: "" });
 
 const isDataQuery = async (prompt) => {
     try {
